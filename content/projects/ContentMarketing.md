@@ -1,5 +1,5 @@
 ---
-date: '2024-04-14'
+date: '2023-07-01'
 title: 'Human Personality Prediction Project'
 github: 'https://github.com/GauravAmarnani/human-personality'
 external: 'https://drive.google.com/file/d/1tdiCWrNX4qin5ZVrVj0ACSelvod1W4dM/view?usp=drive_link'

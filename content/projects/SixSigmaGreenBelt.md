@@ -1,5 +1,5 @@
 ---
-date: '2022-06-12'
+date: '2024-01-01'
 title: 'Paper Published on Financial Calculator'
 github: ''
 external: 'https://www.irjet.net/archives/V8/i4/IRJET-V8I4327.pdf'

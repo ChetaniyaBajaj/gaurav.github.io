@@ -5,7 +5,7 @@
   "author": "Gaurav Amarnani <developer@gauravamarnani.site>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GauravAmarnani/brittanychiangportfolio"
+    "url": "https://github.com/ChetaniyaBajaj/gaurav.github.io"
   },
   "keywords": [
     "gatsby"
@@ -73,6 +73,7 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^6.1.1",
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"

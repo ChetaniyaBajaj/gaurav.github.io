@@ -1,5 +1,5 @@
 ---
-date: '2021-04-20'
+date: '2021-07-01'
 title: 'Personal Website'
 github: 'https://github.com/GauravAmarnani/brittanychiangresume'
 external: 'gauravamarnani.site'

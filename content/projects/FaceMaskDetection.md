@@ -1,5 +1,5 @@
 ---
-date: '2020-05-20'
+date: '2021-07-01'
 title: 'BDA Certificate'
 github: 'https://github.com/GauravAmarnani/certificates/blob/main/BDA_CERTIFICATE.png'
 external: 'https://github.com/GauravAmarnani/certificates/blob/main/BDA_CERTIFICATE.png'

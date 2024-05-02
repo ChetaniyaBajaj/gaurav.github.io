@@ -11,6 +11,6 @@ tech:
   - Graphics
 ---
 
-Our **Restaurant Management System**, built with the Spring Framework, addresses key needs of restaurant owners based on real-world feedback.
+Our **Restaurant Management System**, addresses key needs of restaurant owners based on real-world feedback.
 
 It includes features like **tax calculations**, **expenditure tracking**, **customer and menu management**, all presented graphically for user-friendly operation. This project exemplifies how technology can streamline business operations effectively.

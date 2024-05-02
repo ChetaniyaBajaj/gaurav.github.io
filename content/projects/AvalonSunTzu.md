@@ -1,5 +1,5 @@
 ---
-date: '2023-08-01'
+date: '2022-06-01'
 title: 'CODE-O-FIESTA Runner Up'
 github: 'https://github.com/GauravAmarnani/certificates/blob/main/code-o-fiesta/CODE-O-FIESTA_CERTIFICATE.pdf'
 external: 'https://github.com/GauravAmarnani/certificates/blob/main/code-o-fiesta/CODE-O-FIESTA_CERTIFICATE.pdf'

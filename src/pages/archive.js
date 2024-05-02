@@ -160,7 +160,7 @@ const ArchivePage = ({ location, data }) => {
           <table>
             <thead>
               <tr>
-                <th>Year</th>
+                <th>Sr No.</th>
                 <th>Title</th>
                 <th className="hide-on-mobile">Category</th>
                 <th className="hide-on-mobile">Tags</th>

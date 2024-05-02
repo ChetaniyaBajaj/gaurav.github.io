@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['DSA', 'Java (Core and Advanced)', 'JavaScript Frameworks', 'Spring Framework', 'Hibernate ORM', 'MySQL, Oracle, MongoDB', 'CI/CD', 'Docker'];
+  const skills = ['DSA', 'Java 2EE', 'JavaScript Frameworks', 'Spring Framework', 'Hibernate ORM', 'MySQL, Oracle, MongoDB', 'CI/CD', 'Docker'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -158,7 +158,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
